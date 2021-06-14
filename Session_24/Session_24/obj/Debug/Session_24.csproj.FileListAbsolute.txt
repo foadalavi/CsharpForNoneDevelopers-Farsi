@@ -1,0 +1,7 @@
+C:\Users\Foad\source\repos\Session_24\Session_24\bin\Debug\Session_24.exe.config
+C:\Users\Foad\source\repos\Session_24\Session_24\bin\Debug\Session_24.exe
+C:\Users\Foad\source\repos\Session_24\Session_24\bin\Debug\Session_24.pdb
+C:\Users\Foad\source\repos\Session_24\Session_24\obj\Debug\Session_24.csprojAssemblyReference.cache
+C:\Users\Foad\source\repos\Session_24\Session_24\obj\Debug\Session_24.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session_24\Session_24\obj\Debug\Session_24.exe
+C:\Users\Foad\source\repos\Session_24\Session_24\obj\Debug\Session_24.pdb

@@ -1,0 +1,16 @@
+C:\Users\Foad\source\repos\Session20\Session20\bin\Debug\Session20.exe.config
+C:\Users\Foad\source\repos\Session20\Session20\bin\Debug\Session20.exe
+C:\Users\Foad\source\repos\Session20\Session20\bin\Debug\Session20.pdb
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.CourseForms.CourseAdd.resources
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.CourseForms.CourseEdit.resources
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.MainForm.resources
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.Properties.Resources.resources
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.StudentForms.StudentAdd.resources
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.StudentForms.StudentEdit.resources
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.TeacherForms.TeacherAdd.resources
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.TeacherForms.TeacherEdit.resources
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.csproj.GenerateResource.cache
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.exe
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.pdb
+C:\Users\Foad\source\repos\Session20\Session20\obj\Debug\Session20.csprojAssemblyReference.cache

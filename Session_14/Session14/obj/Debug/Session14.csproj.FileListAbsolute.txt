@@ -1,0 +1,7 @@
+C:\Users\Foad\source\repos\Session14\Session14\bin\Debug\Session14.exe.config
+C:\Users\Foad\source\repos\Session14\Session14\bin\Debug\Session14.exe
+C:\Users\Foad\source\repos\Session14\Session14\bin\Debug\Session14.pdb
+C:\Users\Foad\source\repos\Session14\Session14\obj\Debug\Session14.csprojAssemblyReference.cache
+C:\Users\Foad\source\repos\Session14\Session14\obj\Debug\Session14.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session14\Session14\obj\Debug\Session14.exe
+C:\Users\Foad\source\repos\Session14\Session14\obj\Debug\Session14.pdb

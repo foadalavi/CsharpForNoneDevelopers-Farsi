@@ -1,0 +1,7 @@
+C:\Users\Foad\source\repos\Session21\Session21\bin\Debug\Session21.exe.config
+C:\Users\Foad\source\repos\Session21\Session21\bin\Debug\Session21.exe
+C:\Users\Foad\source\repos\Session21\Session21\bin\Debug\Session21.pdb
+C:\Users\Foad\source\repos\Session21\Session21\obj\Debug\Session21.csprojAssemblyReference.cache
+C:\Users\Foad\source\repos\Session21\Session21\obj\Debug\Session21.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session21\Session21\obj\Debug\Session21.exe
+C:\Users\Foad\source\repos\Session21\Session21\obj\Debug\Session21.pdb

@@ -1,0 +1,6 @@
+C:\Users\Foad\source\repos\Session17\RandomDemo\bin\Debug\RandomDemo.exe.config
+C:\Users\Foad\source\repos\Session17\RandomDemo\bin\Debug\RandomDemo.exe
+C:\Users\Foad\source\repos\Session17\RandomDemo\bin\Debug\RandomDemo.pdb
+C:\Users\Foad\source\repos\Session17\RandomDemo\obj\Debug\RandomDemo.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session17\RandomDemo\obj\Debug\RandomDemo.exe
+C:\Users\Foad\source\repos\Session17\RandomDemo\obj\Debug\RandomDemo.pdb

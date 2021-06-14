@@ -1,0 +1,7 @@
+C:\Users\Foad\source\repos\Session20\Test\bin\Debug\Test.exe.config
+C:\Users\Foad\source\repos\Session20\Test\bin\Debug\Test.exe
+C:\Users\Foad\source\repos\Session20\Test\bin\Debug\Test.pdb
+C:\Users\Foad\source\repos\Session20\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Foad\source\repos\Session20\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session20\Test\obj\Debug\Test.exe
+C:\Users\Foad\source\repos\Session20\Test\obj\Debug\Test.pdb

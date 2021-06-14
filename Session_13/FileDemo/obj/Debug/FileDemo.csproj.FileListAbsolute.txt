@@ -1,0 +1,7 @@
+C:\Users\Foad\source\repos\Session13\FileDemo\bin\Debug\FileDemo.exe.config
+C:\Users\Foad\source\repos\Session13\FileDemo\bin\Debug\FileDemo.exe
+C:\Users\Foad\source\repos\Session13\FileDemo\bin\Debug\FileDemo.pdb
+C:\Users\Foad\source\repos\Session13\FileDemo\obj\Debug\FileDemo.csprojAssemblyReference.cache
+C:\Users\Foad\source\repos\Session13\FileDemo\obj\Debug\FileDemo.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session13\FileDemo\obj\Debug\FileDemo.exe
+C:\Users\Foad\source\repos\Session13\FileDemo\obj\Debug\FileDemo.pdb

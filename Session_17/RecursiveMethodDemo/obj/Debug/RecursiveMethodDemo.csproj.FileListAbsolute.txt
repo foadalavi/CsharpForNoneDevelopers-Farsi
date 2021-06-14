@@ -1,0 +1,7 @@
+C:\Users\Foad\source\repos\Session17\RecursiveMethodDemo\bin\Debug\RecursiveMethodDemo.exe.config
+C:\Users\Foad\source\repos\Session17\RecursiveMethodDemo\bin\Debug\RecursiveMethodDemo.exe
+C:\Users\Foad\source\repos\Session17\RecursiveMethodDemo\bin\Debug\RecursiveMethodDemo.pdb
+C:\Users\Foad\source\repos\Session17\RecursiveMethodDemo\obj\Debug\RecursiveMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session17\RecursiveMethodDemo\obj\Debug\RecursiveMethodDemo.exe
+C:\Users\Foad\source\repos\Session17\RecursiveMethodDemo\obj\Debug\RecursiveMethodDemo.pdb
+C:\Users\Foad\source\repos\Session17\RecursiveMethodDemo\obj\Debug\RecursiveMethodDemo.csprojAssemblyReference.cache

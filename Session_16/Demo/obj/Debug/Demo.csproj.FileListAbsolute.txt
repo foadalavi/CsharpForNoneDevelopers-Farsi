@@ -1,0 +1,10 @@
+C:\Users\Foad\source\repos\Session16\Demo\bin\Debug\Demo.exe.config
+C:\Users\Foad\source\repos\Session16\Demo\bin\Debug\Demo.exe
+C:\Users\Foad\source\repos\Session16\Demo\bin\Debug\Demo.pdb
+C:\Users\Foad\source\repos\Session16\Demo\obj\Debug\Demo.csprojAssemblyReference.cache
+C:\Users\Foad\source\repos\Session16\Demo\obj\Debug\Demo.Form1.resources
+C:\Users\Foad\source\repos\Session16\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Foad\source\repos\Session16\Demo\obj\Debug\Demo.csproj.GenerateResource.cache
+C:\Users\Foad\source\repos\Session16\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Foad\source\repos\Session16\Demo\obj\Debug\Demo.exe
+C:\Users\Foad\source\repos\Session16\Demo\obj\Debug\Demo.pdb
